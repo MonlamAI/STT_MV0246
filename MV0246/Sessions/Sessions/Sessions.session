@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Session>
-  <AdditionalFields>
-    <Location_Country type="string">Unspecified</Location_Country>
-    <Location_Continent type="string">Unspecified</Location_Continent>
-  </AdditionalFields>
-  <genre type="string">&lt;Unknown&gt;</genre>
-</Session>
